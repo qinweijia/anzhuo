@@ -1,0 +1,7 @@
+#Fri Dec 13 10:31:35 CST 2019
+base.0=F\:\\app\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2dde670cb47c0012c2d80ad035ac9597a0f9056f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\app\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bf9cafa5d61f7d921badf6b0106198ef008bf1a7\\classes.dex
+base.1=F\:\\app\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bf9cafa5d61f7d921badf6b0106198ef008bf1a7
+file.0=F\:\\app\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2dde670cb47c0012c2d80ad035ac9597a0f9056f\\classes.dex

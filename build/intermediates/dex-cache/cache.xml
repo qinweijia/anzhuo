@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\app\OCRDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bf9cafa5d61f7d921badf6b0106198ef008bf1a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\32b003ad1c8d5837efaab51851a75e0d79215eb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8581389cbd927dffe0d6d3f3c77a239ecb84b3be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27414b0aaebf138ad149373556fbac40b85a633">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ocr-sdk_6a7166718b196d1277ae5ab6c2081cff58ba2d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\77cdde7e1513f5155def89499e0a5abddf8851f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a55ecfdaad1ba9dd7015e806af7de63e0ad5946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\OCRDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73265fe99bf358e45865c1f72ae60102bad0a5ee">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2dde670cb47c0012c2d80ad035ac9597a0f9056f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\baaa6a6896167fea188fa89b3c8ffa3b2fa2eecb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22824475101810862b1c3b99b7c95a6a472d2305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\f421478897718ef23d2bd059dc395d1493594967\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef3803f84a97be2e85e0fd0a2e3668362df8f30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="W:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_3a5ff687afc3b203964bee45c4374822039689de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\513abbbf771a94758efa6b44fe74e59d607ad1c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a206bdbf644e2369af5dad1a3f41ddad3760698c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\173ce433485554493143914f657f1bb3d052bc2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e00eca2c89503b8a2b04617626e1e69d4491c4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\32a28e35eaf679c3f66e8fe548ea36120dc3f4ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d41e14dc7a205d76c17fc24f4bb32d84da1f032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\5d1fb6a8942ce4b40fab90751f83fd1fcfdae8cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca0a2b612ea5371811190ad7d490e07a9f8fea61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\卜渺邈\.android\build-cache\83e0dede2a9c51ca197ed6e187bc552f26938f28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eae2b79a1d0c5f9e37da083797bb509a81455dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="F:\app\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\license_9077a59b1ab9aaf4fc77ad63d4ebc88823ebbde9\classes.dex" />
+    </item>
+
+</items>
